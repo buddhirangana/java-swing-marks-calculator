@@ -1,1 +1,1 @@
-# java-swing-marks-calculator
+# Java Swing Marks Calculator
